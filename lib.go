@@ -1,5 +1,4 @@
 package gpost
-import "C"
 
 // #cgo CFLAGS: -I${SRCDIR}/include
 // #cgo LDFLAGS: -llibgpu
